@@ -42,7 +42,7 @@ Good Resource for random sample function in Python:
 https://www.geeksforgeeks.org/python-random-sample-function/
 
 Mutation Challenge:
-You will modify the Bootstrap Cover template to display your new fortune. You can do this by mutating the h1 tag in the HTML file and any html element with the class "cover". 
+You will modify the Bootstrap Cover template to display your new fortune. You can do this by mutating the h1 tag in the HTML file and any html element with the class "lead". 
 
 GOOD LUCK!
 
