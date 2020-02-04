@@ -38,6 +38,13 @@ For this Challenge, You will do a Graphql query and Mutation!
 ------------------
 Query Challenge:
 You will have the opporunity to generate good fortune to some lucky client! In order to do this, in /graphql-toc-challenge/schema.py, you will create a resolver method in the Query object, that will pick three random fortune quotes from the fortunes.txt file and return this as a response to the client.  There is already an example provided for you that returns the entire list of fortune quotes. 
+Good Resource for random sample function in Python:
+https://www.geeksforgeeks.org/python-random-sample-function/
+
+Mutation Challenge:
+You will modify the Bootstrap Cover template to display your new fortune. You can do this by mutating the h1 tag in the HTML file and any html element with the class "cover". 
+
+GOOD LUCK!
 
 
 
