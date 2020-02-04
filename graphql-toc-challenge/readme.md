@@ -34,5 +34,10 @@ Now head on over to
 
 and run queries!
 
+For this Challenge, You will do a Graphql query and Mutation!
+------------------
+Query Challenge:
+You will have the opporunity to generate good fortune to some lucky client! In order to do this, in /graphql-toc-challenge/schema.py, you will create a resolver method in the Query object, that will pick three random fortune quotes from the fortunes.txt file and return this as a response to the client.  There is already an example provided for you that returns the entire list of fortune quotes. 
+
 
 
