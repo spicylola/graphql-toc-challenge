@@ -32,7 +32,7 @@ source venv/bin/activate
 Now we can install our dependencies:
 
 ```bash
-pip install -r requirements/base.txt
+pip install -r requirements.txt
 ```
 
 ```bash
