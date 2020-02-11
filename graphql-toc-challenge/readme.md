@@ -1,6 +1,15 @@
 Getting started
 ---------------
 To do this project, you will need to install Python3, Pip3.
+Getting started if you want this repo locally
+---------------
+To run locally, you will need to have Python3, Pip3, Postgres, Docker, and Docker-Compose installed.
+
+Make Sure to Download a version of Python 3.4 or greater to already have Pip installed/
+***Python3 Installation, download the version for your OS:** https://www.python.org/downloads/
+
+**Pip: It should already come with your Python installation.** 
+
 
 First you'll need to get the source of the project.
 
@@ -41,7 +50,7 @@ You will have the opporunity to generate good fortune to some lucky client! In o
 Good Resource for random sample function in Python:
 https://www.geeksforgeeks.org/python-random-sample-function/
 
-Mutation Challenge:
+**BONUS** Mutation Challenge:
 You will modify the Bootstrap Cover template to display your new fortune. You can do this by mutating the h1 tag in the HTML file and any html element with the class "lead". 
 
 GOOD LUCK!
