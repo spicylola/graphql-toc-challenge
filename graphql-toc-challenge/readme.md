@@ -20,6 +20,10 @@ cd graphql-toc-challenge
 ```
 
 ```bash
+pip install virtualenv
+pip install --upgrade pip
+alias python=/usr/local/bin/python3
+python3 -m pip install --upgrade --force pip
 # Create a virtualenv in which we can install the dependencies
 virtualenv venv
 source venv/bin/activate
